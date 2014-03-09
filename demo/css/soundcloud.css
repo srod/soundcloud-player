@@ -1,0 +1,17 @@
+.scp-content-timeline {
+    display: block;
+    padding: 10px 0;
+    width: 100%;
+    background: #000;
+    color: #fff;
+}
+
+.scp-content-timeline-bar {
+    display: block;
+    height: 10px;
+    background: #fff;
+}
+
+#player-fullscreen {
+    display: none;
+}
